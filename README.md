@@ -23,6 +23,7 @@ build.grade: Spring Web, Spring Data JPA, H2 Database, Lombok
 기술 스택: Java, Spring, H2 Database
 * [Gradle Build Scans – insights for your project's build](https://scans.gradle.com#gradle)
 출처: https://github.com/meene11/cart, 제로베이스 Part 11 전체
+
 ERD
 
 
