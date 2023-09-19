@@ -1,4 +1,4 @@
-#이커머스 - 물품 구매, 판매
+이커머스 - 물품 구매, 판매
 
 1. 회원가입: 회원가입 시의 약관을 만들고 고객에게 보여줌. 고객이 회원으로
 가입할 때 정보를 기입할 수 있도록 시스템을 만듬
@@ -18,11 +18,11 @@
 
 6. 결제 - 고객의 계좌/휴대폰번호를 적은 뒤 결제 진행. 만일 고객이 돈이 부족하다면 “돈이 부족합니다.”라고 적기
 
-###build.grade: Spring Web, Spring Data JPA, H2 Database, Lombok
+build.grade: Spring Web, Spring Data JPA, H2 Database, Lombok
  
-###기술 스택: Java, Spring, H2 Database
+기술 스택: Java, Spring, H2 Database
 * [Gradle Build Scans – insights for your project's build](https://scans.gradle.com#gradle)
 
-###출처: https://github.com/meene11/cart, 제로베이스 Part 11 전체
+출처: https://github.com/meene11/cart, 제로베이스 Part 11 전체
 
 
